@@ -1,6 +1,14 @@
 apiVersion: v1
-entries: 
-  resource_temapltes:
-  - urls: 
-      - "https://github.com/test-organisation-bridzinppp/helm/resource_templates/"
-generated: "2023-09-16T14:21:50.7147869+02:00"
+entries:
+  resource_templates:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-16T14:59:47.6259481+02:00"
+    description: A Helm chart for Kubernetes
+    digest: d43e2e0d8372dd643b855c82688a3d513d0ec7707a1cc05152859f9c4c61aa2c
+    name: resource_templates
+    type: application
+    urls:
+    - resource_templates-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-16T14:59:47.6243556+02:00"
