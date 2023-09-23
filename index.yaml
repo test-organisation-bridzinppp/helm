@@ -21,13 +21,13 @@ entries:
       repository: ""
       version: 0.0.1
     - name: resource_templates
-      repository: https://test-organisation-bridzinppp.github.io/helm/resource_templates
+      repository: https://test-organisation-bridzinppp.github.io/helm
       version: 0.0.1
     - name: clamav
-      repository: https://test-organisation-bridzinppp.github.io/helm/clamav
+      repository: https://test-organisation-bridzinppp.github.io/helm
       version: 0.0.1
     - name: rabbitmq
-      repository: https://test-organisation-bridzinppp.github.io/helm/rabbitmq
+      repository: https://test-organisation-bridzinppp.github.io/helm
       version: 0.0.1
     description: A Helm chart for Kubernetes
     digest: 1ceb178b746807f3a838345321c3205a2e0a5cb292ce29f2e6fb8f203b13279e
