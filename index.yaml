@@ -3,7 +3,7 @@ entries:
   azurelabs:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-23T16:13:52.6893283+02:00"
+    created: "2023-09-23T16:17:09.0517424+02:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -38,7 +38,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-23T16:13:52.7021909+02:00"
+    created: "2023-09-23T16:17:09.0623434+02:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -68,7 +68,7 @@ entries:
   clamav:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-09-23T16:13:52.6941627+02:00"
+    created: "2023-09-23T16:17:09.0537044+02:00"
     description: A Helm chart for Kubernetes - clamav
     digest: b6cc5776de278383f9f2a10552406a50e5a244c730e2619bc7c1088d542c1c4d
     name: clamav
@@ -78,7 +78,7 @@ entries:
     version: 0.0.1
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-09-23T16:13:52.7058156+02:00"
+    created: "2023-09-23T16:17:09.0689552+02:00"
     description: A Helm chart for Kubernetes - clamav
     digest: fed9c6a126f43a7a90b5cc8cfaefcf1947514071ebcd1d50036989fcfa4e76d6
     name: clamav
@@ -89,7 +89,7 @@ entries:
   rabbitmq:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-09-23T16:13:52.6970184+02:00"
+    created: "2023-09-23T16:17:09.0547393+02:00"
     description: A Helm chart for Kubernetes - rabbitmq
     digest: 759f33c9fd77af4d743a4948a5b8a8c99abf8d5d22740f08bee1a2ac101a8166
     name: rabbitmq
@@ -99,7 +99,7 @@ entries:
     version: 0.0.1
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-09-23T16:13:52.7089866+02:00"
+    created: "2023-09-23T16:17:09.0748225+02:00"
     description: A Helm chart for Kubernetes - rabbitmq
     digest: 40323575132605dcea1a088419e0fab4da1bd294bb63b927138163b69d5b1b26
     name: rabbitmq
@@ -110,12 +110,12 @@ entries:
   resource_templates:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-09-23T16:13:52.6985781+02:00"
+    created: "2023-09-23T16:17:09.0583239+02:00"
     description: A Helm chart for Kubernetes
-    digest: f357d9658e2a67c3a75f2c932bf87d3ddd42eea6a79cea400141a877b2839c04
+    digest: dbf196e8e5414d078039cc2628ecc72c9e185a3a975a4d7b3e6c135e749a8155
     name: resource_templates
     type: application
     urls:
     - resource_templates-0.0.1.tgz
     version: 0.0.1
-generated: "2023-09-23T16:13:52.684686+02:00"
+generated: "2023-09-23T16:17:09.0495877+02:00"
