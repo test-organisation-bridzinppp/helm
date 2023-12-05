@@ -3,7 +3,7 @@ entries:
   azurelabs:
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2023-12-03T16:31:03.8240132+01:00"
+    created: "2023-12-05T19:24:22.8521029+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -38,7 +38,7 @@ entries:
     version: 0.1.37
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2023-12-03T16:31:03.8151813+01:00"
+    created: "2023-12-05T19:24:22.8472918+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -73,7 +73,7 @@ entries:
     version: 0.1.36
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2023-12-03T16:31:03.808627+01:00"
+    created: "2023-12-05T19:24:22.8435093+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -108,7 +108,7 @@ entries:
     version: 0.1.35
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2023-12-03T16:31:03.8026856+01:00"
+    created: "2023-12-05T19:24:22.8400117+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -143,7 +143,7 @@ entries:
     version: 0.1.34
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2023-12-03T16:31:03.7966518+01:00"
+    created: "2023-12-05T19:24:22.8362849+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -178,7 +178,7 @@ entries:
     version: 0.1.33
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2023-12-03T16:31:03.7896119+01:00"
+    created: "2023-12-05T19:24:22.8301861+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -213,7 +213,7 @@ entries:
     version: 0.1.32
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2023-12-03T16:31:03.782626+01:00"
+    created: "2023-12-05T19:24:22.8261872+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -248,7 +248,7 @@ entries:
     version: 0.1.31
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2023-12-03T16:31:03.7766412+01:00"
+    created: "2023-12-05T19:24:22.8222473+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -283,7 +283,7 @@ entries:
     version: 0.1.30
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2023-12-03T16:31:03.7638083+01:00"
+    created: "2023-12-05T19:24:22.8157568+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -318,7 +318,7 @@ entries:
     version: 0.1.29
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2023-12-03T16:31:03.7561574+01:00"
+    created: "2023-12-05T19:24:22.8097742+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -353,7 +353,7 @@ entries:
     version: 0.1.28
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2023-12-03T16:31:03.7481121+01:00"
+    created: "2023-12-05T19:24:22.8051541+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -388,7 +388,7 @@ entries:
     version: 0.1.27
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2023-12-03T16:31:03.7410668+01:00"
+    created: "2023-12-05T19:24:22.8011534+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -423,7 +423,7 @@ entries:
     version: 0.1.26
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2023-12-03T16:31:03.9402886+01:00"
+    created: "2023-12-05T19:24:22.9082182+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -458,7 +458,7 @@ entries:
     version: 0.1.26
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2023-12-03T16:31:03.9330777+01:00"
+    created: "2023-12-05T19:24:22.9038998+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -493,7 +493,7 @@ entries:
     version: 0.1.25
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.7355635+01:00"
+    created: "2023-12-05T19:24:22.7961871+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -528,7 +528,7 @@ entries:
     version: 0.1.25
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.7299386+01:00"
+    created: "2023-12-05T19:24:22.7927805+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -563,7 +563,7 @@ entries:
     version: 0.1.24
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.7229046+01:00"
+    created: "2023-12-05T19:24:22.7874542+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -598,7 +598,7 @@ entries:
     version: 0.1.23
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.7170744+01:00"
+    created: "2023-12-05T19:24:22.7833093+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -633,7 +633,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.7118808+01:00"
+    created: "2023-12-05T19:24:22.7801335+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -668,7 +668,7 @@ entries:
     version: 0.1.21
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.706894+01:00"
+    created: "2023-12-05T19:24:22.7761191+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -703,7 +703,7 @@ entries:
     version: 0.1.20
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.6948089+01:00"
+    created: "2023-12-05T19:24:22.7693409+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -738,7 +738,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.6871656+01:00"
+    created: "2023-12-05T19:24:22.7656173+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -773,7 +773,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.680508+01:00"
+    created: "2023-12-05T19:24:22.7609937+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -808,7 +808,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.6754848+01:00"
+    created: "2023-12-05T19:24:22.7579927+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -843,7 +843,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.6698901+01:00"
+    created: "2023-12-05T19:24:22.7541323+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -878,7 +878,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.6632044+01:00"
+    created: "2023-12-05T19:24:22.7495704+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -913,7 +913,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.6557322+01:00"
+    created: "2023-12-05T19:24:22.74406+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -948,7 +948,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.649459+01:00"
+    created: "2023-12-05T19:24:22.7408544+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -983,7 +983,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.6434665+01:00"
+    created: "2023-12-05T19:24:22.737677+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -1018,7 +1018,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.6374777+01:00"
+    created: "2023-12-05T19:24:22.7349825+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -1053,7 +1053,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.8642311+01:00"
+    created: "2023-12-05T19:24:22.8694719+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -1088,7 +1088,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.857415+01:00"
+    created: "2023-12-05T19:24:22.8659071+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -1123,7 +1123,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.8504796+01:00"
+    created: "2023-12-05T19:24:22.8639267+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -1158,7 +1158,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.8444822+01:00"
+    created: "2023-12-05T19:24:22.861062+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -1193,7 +1193,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.8374998+01:00"
+    created: "2023-12-05T19:24:22.8584232+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -1228,7 +1228,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.8305166+01:00"
+    created: "2023-12-05T19:24:22.8552791+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -1263,7 +1263,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.7706564+01:00"
+    created: "2023-12-05T19:24:22.8187564+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -1298,7 +1298,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.7008034+01:00"
+    created: "2023-12-05T19:24:22.7728997+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -1333,7 +1333,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.6280963+01:00"
+    created: "2023-12-05T19:24:22.7282438+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -1368,7 +1368,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-03T16:31:03.6189013+01:00"
+    created: "2023-12-05T19:24:22.7226951+01:00"
     dependencies:
     - name: antivirus-app
       repository: ""
@@ -1404,7 +1404,17 @@ entries:
   clamav:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-12-03T16:31:03.8677281+01:00"
+    created: "2023-12-05T19:24:22.8736001+01:00"
+    description: A Helm chart for Kubernetes - clamav
+    digest: a6c718ac63dff08927a75041e45cf6eba2c2efb199d6efca76c3a994df09febb
+    name: clamav
+    type: application
+    urls:
+    - clamav-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2023-12-05T19:24:22.8709958+01:00"
     description: A Helm chart for Kubernetes - clamav
     digest: 47f25ae5091a1c53fbc024b73ecf4690689ebd6032896932df06fbe508d4a4e8
     name: clamav
@@ -1414,7 +1424,7 @@ entries:
     version: 0.0.1
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-12-03T16:31:03.9536203+01:00"
+    created: "2023-12-05T19:24:22.9135979+01:00"
     description: A Helm chart for Kubernetes - clamav
     digest: fed9c6a126f43a7a90b5cc8cfaefcf1947514071ebcd1d50036989fcfa4e76d6
     name: clamav
@@ -1425,7 +1435,17 @@ entries:
   rabbitmq:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-12-03T16:31:03.8723415+01:00"
+    created: "2023-12-05T19:24:22.8775976+01:00"
+    description: A Helm chart for Kubernetes - rabbitmq
+    digest: a14cd1647a18766c9c318f4103d6db69e7f1622a1eddd132da07dc3070c8029b
+    name: rabbitmq
+    type: application
+    urls:
+    - rabbitmq-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2023-12-05T19:24:22.8765981+01:00"
     description: A Helm chart for Kubernetes - rabbitmq
     digest: 3c08302f6feb145f6f0ff9046a5366110eb36aa4a4cf11d55418bcb2c5a81d71
     name: rabbitmq
@@ -1435,7 +1455,7 @@ entries:
     version: 0.0.1
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-12-03T16:31:03.9660134+01:00"
+    created: "2023-12-05T19:24:22.9197246+01:00"
     description: A Helm chart for Kubernetes - rabbitmq
     digest: 40323575132605dcea1a088419e0fab4da1bd294bb63b927138163b69d5b1b26
     name: rabbitmq
@@ -1446,7 +1466,7 @@ entries:
   resource_templates:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-12-03T16:31:03.8800076+01:00"
+    created: "2023-12-05T19:24:22.8816267+01:00"
     description: A Helm chart for Kubernetes
     digest: e532ba67f7a8dbc6b0720c6ebaccff74f72b5a1f33a78f95c8450e0fc3bf7189
     name: resource_templates
@@ -1456,7 +1476,7 @@ entries:
     version: 0.0.10
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-12-03T16:31:03.9180311+01:00"
+    created: "2023-12-05T19:24:22.896831+01:00"
     description: A Helm chart for Kubernetes
     digest: 91083772d24fa44f23224d2ccf4bd1e3c139d52f10c4f7c18180593b9ca1e1e0
     name: resource_templates
@@ -1466,7 +1486,7 @@ entries:
     version: 0.0.9
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-12-03T16:31:03.9130429+01:00"
+    created: "2023-12-05T19:24:22.8946489+01:00"
     description: A Helm chart for Kubernetes
     digest: 6db537acd990e09221f52b2df4f340124e7bbf5b738252b67e22e8ccdf27143a
     name: resource_templates
@@ -1476,7 +1496,7 @@ entries:
     version: 0.0.8
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-12-03T16:31:03.9080539+01:00"
+    created: "2023-12-05T19:24:22.8925274+01:00"
     description: A Helm chart for Kubernetes
     digest: 8796f71da41f905445b74fd449188e425f3fc7b9a4b64ad27db8346bd5c1a978
     name: resource_templates
@@ -1486,7 +1506,7 @@ entries:
     version: 0.0.7
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-12-03T16:31:03.9040621+01:00"
+    created: "2023-12-05T19:24:22.8904982+01:00"
     description: A Helm chart for Kubernetes
     digest: bb5497cab205a5dae3a948e2b9b87d5bc016cf07956d3d861fc193b3d562a502
     name: resource_templates
@@ -1496,7 +1516,7 @@ entries:
     version: 0.0.6
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-12-03T16:31:03.9000733+01:00"
+    created: "2023-12-05T19:24:22.888662+01:00"
     description: A Helm chart for Kubernetes
     digest: b10e1e8507894e77485edb486186b886c4f07ecee1e4ff07853a7c2e50eb8d84
     name: resource_templates
@@ -1506,7 +1526,7 @@ entries:
     version: 0.0.5
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-12-03T16:31:03.8960825+01:00"
+    created: "2023-12-05T19:24:22.8875303+01:00"
     description: A Helm chart for Kubernetes
     digest: 2df42c92f45e73c1f3ed5dc64bfa3c16f6eb09823634d786e5af132b9e826fad
     name: resource_templates
@@ -1516,7 +1536,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-12-03T16:31:03.8911014+01:00"
+    created: "2023-12-05T19:24:22.8855008+01:00"
     description: A Helm chart for Kubernetes
     digest: ea8f2ee6a9d9340f6c52ba3cde6936ca4b5be42299e11359ce5f7f05047854c9
     name: resource_templates
@@ -1526,7 +1546,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-12-03T16:31:03.8851112+01:00"
+    created: "2023-12-05T19:24:22.8835267+01:00"
     description: A Helm chart for Kubernetes
     digest: c55d28f99bf8ec9c8eb01dd6bb3d83b5fffc027869060a94a79c82e6ad076bed
     name: resource_templates
@@ -1536,7 +1556,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-12-03T16:31:03.8770154+01:00"
+    created: "2023-12-05T19:24:22.8796263+01:00"
     description: A Helm chart for Kubernetes
     digest: 90da15fa495c6b7291a9130a479d4fd3574150aa2fd171a2fb758e8d9db57e72
     name: resource_templates
@@ -1544,4 +1564,4 @@ entries:
     urls:
     - resource_templates-0.0.1.tgz
     version: 0.0.1
-generated: "2023-12-03T16:31:03.6074046+01:00"
+generated: "2023-12-05T19:24:22.71454+01:00"
